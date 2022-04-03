@@ -1,1 +1,28 @@
-/* Copy and paste your CSS from CodePen into here */
+#img-caption
+{
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+}
+
+#image 
+{
+  max-width: 100%;
+  height: auto;
+  display: block;
+   margin: 0 auto;
+}
+
+body {
+  background-color: #D0D5F7;
+  font-family: Arial;
+  text-align: center;
+  }
+
+ul {
+  max-width: 700px;
+  margin: 0 auto 0 auto;
+  text-align: left;
+  line-height: 2.3;
+
+
